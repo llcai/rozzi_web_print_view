@@ -42,6 +42,6 @@ What you see and what you print
     'auto_install': False,
     'price':99.99,
     'currency': 'EUR',
-    'license': 'OEEL-1',
+    'license': 'OPL-1',
     'application': True,
 }
